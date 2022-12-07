@@ -1,5 +1,5 @@
 from unittest import TestCase
-from Algorithm.DroneAlgoInterface import DroneAlgoInterface
+from Interface_Tests.DroneAlgoInterface import DroneAlgoInterface
 from simple_airsim.api.drone import Drone
 
 
