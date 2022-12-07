@@ -12,8 +12,11 @@ the	current	situation.
 notice	that	the	most	right	column	is	the	one	we	want	to	predict.
 
 
-The data sample here have just 3 states : safe ,normal and emergency.
-In our Algorithm 5  states are represented : 
+# The data sample here have just 3 states : safe ,normal and emergency.
+# In our Algorithm 5  states are represented : 
+
+# The Data
+
  ###  Rotate C.C.W :slightly rotates counterclockwise(to align with the right wall).
         
  ### Emergency : Drone brakes to avoid crashing
