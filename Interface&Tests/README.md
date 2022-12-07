@@ -36,6 +36,6 @@ notice	that	the	most	right	column	is	the	one	we	want	to	predict.
 # Show how the data was created.
 ![alt text](https://github.com/simon-pikalov/deep_drone/blob/main/photo/data_gen.png?raw=true)
 
- 
-
+# source of data sample :
+https://github.com/simon-pikalov/deep_drone.git
 
