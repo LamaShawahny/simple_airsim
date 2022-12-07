@@ -4,12 +4,6 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8g3Wo9dBc7I/0.jpg)](https://www.youtube.com/watch?v=8g3Wo9dBc7I)
 
-# The	Challenge
-
-We	want	to	fly	a	drone	autonomously	and	without	GPS.	for	that	we	made	a	diffrent
-algorithm's	such	as	fly	close	to	one	wall	;	fly	close	to	two	walls	,	hover	,	emergency
-break	;	and	more	,	the	ML	part	is	to	choose	the	right	algorithm	for	the	current	situation.
-that	is	a	classification	problem	to	classify	the	wanted	state	based	on	the	lidars	data.
 
 # The Data
 
