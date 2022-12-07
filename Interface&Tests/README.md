@@ -13,7 +13,7 @@ notice	that	the	most	right	column	is	the	one	we	want	to	predict.
 
 
 # States:
- - The data sample here have just 3 states : safe ,normal and emergency.
+ - The data sample here has just 3 states : safe ,normal and emergency.
  - In our Algorithm 5  states are represented : 
 
  ###  Rotate C.C.W :slightly rotates counterclockwise(to align with the right wall).
