@@ -186,7 +186,7 @@ def loop(drone: Drone):
             if flag==0:
                 Turn_CW(lidars)
 
-        if lidars["left"] < tunnel_emergency and lidars["left"] < tunnel_emergency:
+        if lidars["left"] < tunnel_emergency and lidars["right"] < tunnel_emergency:
             Tunnel(lidars)
 
         if velocity['x'] > 0.3:
