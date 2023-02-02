@@ -1,13 +1,23 @@
 
 # Algo.py
 
-In Algo.py  the algorithm in the article is implemented , so we can see that all drone states will be shown ,
-as well as drone simulation using Airsim .
+In Algo.py  The algorithm in the article is implemented , so we can see a simulation for the drone and all the its states .
+The drone simulation was done using Airsim .
+
+The Article:https://www.mdpi.com/1424-8220/21/16/5293
+
+
+
+
+### Algorithm:
+![389581D0-D3DC-41DC-962C-5BBE72F2B2A4_1_201_a](https://user-images.githubusercontent.com/74476764/216434813-e956c1dd-5c00-4098-9bbf-ee2b618f5b75.jpeg)
+
+
 
 
 
 # States:
- - In our Algorithm 5  states are represented : 
+ - In the article 5 states for the drone are represented : 
 
  ###  Rotate C.C.W :slightly rotates counterclockwise(to align with the right wall).
         
@@ -28,12 +38,14 @@ as well as drone simulation using Airsim .
  
  
 # Drone simulation:
+We can see that drone in this example is in "TURN CW" state wich meens that it turns 90 degrees clockwise.
 
 ![D7D5552C-800A-4B32-AA95-F92BAA0C3834](https://user-images.githubusercontent.com/74476764/216432794-dcd5d7d2-30b0-4f09-a1fc-583205964e6c.jpeg)
 
 
 
-### algorithm
-![389581D0-D3DC-41DC-962C-5BBE72F2B2A4](https://user-images.githubusercontent.com/74476764/216434477-dbb8fe4e-a20a-41a0-a4e3-379251afdfa8.jpeg)
+
+
+
 
 
