@@ -38,7 +38,7 @@ The Article:https://www.mdpi.com/1424-8220/21/16/5293
  
  
 # Drone simulation:
-We can see that drone in this example is in "TURN CW" state wich meens that it turns 90 degrees clockwise.
+We can see that drone in this example is in "TURN_CW" state which means that it turns 90 degrees clockwise.
 
 ![D7D5552C-800A-4B32-AA95-F92BAA0C3834](https://user-images.githubusercontent.com/74476764/216432794-dcd5d7d2-30b0-4f09-a1fc-583205964e6c.jpeg)
 
